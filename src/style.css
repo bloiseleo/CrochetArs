@@ -1,0 +1,36 @@
+:root {
+    font-size: 62.5%; /*10px*/
+    font-family: 'Lora', serif;
+    --title-font: 'Style Script', cursive;
+    --dark_puprle: #7E5678;
+    --basic_green: #8AAD8D;
+    --white: #FFFFFF;
+}
+  
+html {
+    height: 100%;
+    min-height: 100vh;
+}
+  
+body, #root {
+    height: 100%;
+}
+  
+.container {
+    margin: 0 auto;
+    max-width: 27rem;
+}
+
+.title {
+    font-size: 4rem;
+    font-family: var(--title-font);
+    color: var(--dark_puprle);
+}
+
+.subtitle {
+    font-size: 2rem;
+    color: var(--white);
+    font-weight: bold;
+}
+
+
