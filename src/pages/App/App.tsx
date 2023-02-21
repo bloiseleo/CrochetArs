@@ -4,7 +4,12 @@ import './App.css'
 
 function App() {
   return (
-    <Header></Header>
+    <>
+        <Header></Header>
+      <main>
+        <h1>Como você quer mostrar sua essência?</h1>
+      </main>
+    </>
   );
 }
 
