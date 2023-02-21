@@ -1,0 +1,21 @@
+.orcamento {
+    padding: 1rem;
+}
+
+.orcamento h2 {
+    text-align: center;
+    padding: 1rem;
+}
+
+.orcamento p {
+    font-size: 1.2rem;
+}
+
+.orcamento p:first-child {
+    margin-top: 1rem;
+}
+
+.orcamento p {
+    line-height: 1.5rem;
+    margin-bottom: 2rem;
+}
