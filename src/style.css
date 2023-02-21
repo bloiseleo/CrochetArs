@@ -3,6 +3,7 @@
     font-family: 'Lora', serif;
     --title-font: 'Style Script', cursive;
     --dark_puprle: #7E5678;
+    --darker_purple: #40304A;
     --basic_green: #8AAD8D;
     --white: #FFFFFF;
 }
@@ -30,7 +31,7 @@ body, #root {
 .subtitle_bodyTitle {
     font-size: 2rem;
     font-family: var(--title-font);
-    color: var(--dark_puprle);
+    color: var(--darker_purple);
 }
 
 .subtitle {

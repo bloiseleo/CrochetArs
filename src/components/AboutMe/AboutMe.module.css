@@ -1,0 +1,32 @@
+.aboutMe {
+    background-color: var(--basic_green);
+    padding: 1rem;
+}
+
+.aboutMe h2 {
+    text-align: center;
+    padding: 1rem;
+}
+
+.aboutMe__container img {
+    width: 40%;
+}
+
+.aboutMe__textComplement, .aboutMe__content {
+    color: var(--white);
+    line-height: 1.3rem;
+    font-size: 1.2rem;
+}
+
+.aboutMe__content {
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.aboutMe__text {
+    margin-left: 1rem;
+}
+
+.aboutMe__textComplement {
+    padding-bottom: 3rem;
+}
