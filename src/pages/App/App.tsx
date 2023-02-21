@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../../components/Header';
+import ProductsList from '../../components/ProductsList';
 import './App.css'
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
     <>
         <Header></Header>
       <main>
-        <h1>Como você quer mostrar sua essência?</h1>
+        <ProductsList></ProductsList>
       </main>
     </>
   );

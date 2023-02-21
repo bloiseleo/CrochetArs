@@ -27,6 +27,12 @@ body, #root {
     color: var(--dark_puprle);
 }
 
+.subtitle_bodyTitle {
+    font-size: 2rem;
+    font-family: var(--title-font);
+    color: var(--dark_puprle);
+}
+
 .subtitle {
     font-size: 2rem;
     color: var(--white);
